@@ -1,3 +1,5 @@
+![Screenshot of the Arnis app as deployed from this flake](./docs/img/screenshot.png)
+
 # Arnis | Nix Flake
 This is a flake to install [Arnis](https://github.com/mn6/arnis) on systems using the Nix package manager.
 
