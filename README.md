@@ -1,5 +1,5 @@
 # Arnis | Nix Flake
-This is a flake to install [Nook Desktop](https://github.com/mn6/arnis) on systems using the Nix package manager.
+This is a flake to install [Arnis](https://github.com/mn6/arnis) on systems using the Nix package manager.
 
 ###### (Only tested on x86_64)
 
