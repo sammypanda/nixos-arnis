@@ -13,6 +13,7 @@
   libsoup_3,
   webkitgtk_4_1,
   wrapGAppsHook4,
+  glib-networking,
 }:
 
 rustPlatform.buildRustPackage rec {
